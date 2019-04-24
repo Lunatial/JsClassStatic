@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "babel-node --presets es2015 staticTest.js"
+    "start": "babel-node --presets es2015 staticTest.js",
+    "animal": "babel-node --presets es2015 animal.js"
   },
   "keywords": [],
   "author": "",
